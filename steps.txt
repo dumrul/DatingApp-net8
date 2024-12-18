@@ -1,0 +1,15 @@
+Section 3
+---------------------
+
+npm install -g @angular/cli@17 => install angular cli 17 globally
+
+DatingApp>ng new client    (under solution directory) => create an angular app which is name client
+
+Angular Language Service => VsCode package for Angular
+
+Editor: Auto Closing Brackets => Always
+
+cliet>npm install ngx-bootstrap@12 bootstrap font-awesome => install ngx-bootstra and font-awesome packages
+
+client>mkcert -install
+client\ssl>mkcert localhost => ssl certification for use https
